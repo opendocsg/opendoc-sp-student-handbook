@@ -21,6 +21,8 @@ order:
   - 'GenStudentMatters.md'
   - 'GenCourseMatters.md'
   - 'SemestralExam.md'
+  - 'CodeofConduct.md'
+  
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
