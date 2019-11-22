@@ -13,7 +13,7 @@ fast_build: false
 offline: false
 preload_pages: true
 order: 
-  - 'VersionTC.MD'
+  - 'VersionTC.md'
   - 'MessageDir.md'
   - 'AboutPACE.md'
   - 'ContactUs.md'
