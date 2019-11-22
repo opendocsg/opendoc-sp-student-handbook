@@ -12,7 +12,7 @@ google_analytics:  #----> Optional, Google analytics ID
 fast_build: false
 offline: false
 preload_pages: true
-  - '1.VersionTC.md'
+  - '1.VersionTC.MD'
   - '2.MessageDir.md'
 
 styling_options:
