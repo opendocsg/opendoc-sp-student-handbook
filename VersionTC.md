@@ -1,5 +1,5 @@
 ---
-Title: Document Information
+title: Document Information
 ---
 
 # Document Information
