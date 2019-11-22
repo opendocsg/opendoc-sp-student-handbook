@@ -18,6 +18,7 @@ order:
   - 'AboutPACE.md'
   - 'ContactUs.md'
   - 'NavigationAroundSP.md'
+  - 'GenStudentMatters.md'
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
