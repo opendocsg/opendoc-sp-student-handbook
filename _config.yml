@@ -15,6 +15,7 @@ preload_pages: true
   - '1.VersionTC.MD'
   - '2.MessageDir.md'
   - '3.ContactUS.md'
+  - '4.ContactUs.md'
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
