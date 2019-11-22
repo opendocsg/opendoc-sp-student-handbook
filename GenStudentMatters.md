@@ -33,7 +33,7 @@ You are to ensure the confidentiality and security of your password.You will be 
 
 Please contact [SPICE Service Desk](https://www.sp.edu.sg/sp/student-services/it-services/it-support/support) if you encounter any issue with your accounts.
 
-> ### 2.3.1 SPICE ACCOUNT
+> ## 2.3.1 SPICE ACCOUNT
 
 SPICE account is a SP IT account for students to access SPICE services provided by SP. These services include wireless network, PACE Student Portal, Polymall (e-learning system), library, etc.
 
@@ -41,7 +41,7 @@ You can reset your SPICE password or unlock your SPICE account through Identity 
 
 Please contact [SPICE Service Desk](https://www.sp.edu.sg/sp/student-services/it-services/it-support/support)  if you encounter any issue with your account.
 
-> ### 2.3.2 iCHAT EMAIL ACCOUNT
+> ## 2.3.2 iCHAT EMAIL ACCOUNT
 
 iChat (<http://www.outlook.com/ichat.sp.edu.sg>) is an email service provided by Microsoft for SP students.
 
