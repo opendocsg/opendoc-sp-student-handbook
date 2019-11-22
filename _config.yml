@@ -12,6 +12,7 @@ google_analytics:  #----> Optional, Google analytics ID
 fast_build: false
 offline: false
 preload_pages: true
+order: 
   - 'VersionTC.MD'
   - 'MessageDir.md'
   - 'AboutPACE.md'
