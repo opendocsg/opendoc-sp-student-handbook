@@ -13,6 +13,7 @@ fast_build: false
 offline: false
 preload_pages: true
   - '1.VersionTC.md'
+  - '2.MessageDir.md'
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
