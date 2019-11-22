@@ -12,11 +12,11 @@ google_analytics:  #----> Optional, Google analytics ID
 fast_build: false
 offline: false
 preload_pages: true
-  - '1.VersionTC.MD'
-  - '2.MessageDir.md'
-  - '3.AboutPACE.md'
-  - '4.ContactUs.md'
-  - '5.NavigationAroundSP.md'
+  - 'VersionTC.MD'
+  - 'MessageDir.md'
+  - 'AboutPACE.md'
+  - 'ContactUs.md'
+  - 'NavigationAroundSP.md'
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
