@@ -16,6 +16,7 @@ preload_pages: true
   - '2.MessageDir.md'
   - '3.AboutPACE.md'
   - '4.ContactUs.md'
+  - '5.NavigationAroundSP.md'
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
