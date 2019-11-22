@@ -23,8 +23,11 @@ order:
   - 'SemestralExam.md'
   - 'CodeofConduct.md'
   - 'Disciplinary.md'
-  
-  
+  - 'DNCPDPA.md'
+  - 'CompResources.md'
+  - 'SocialMedia.md'
+  - 'IPCopyrightPlagiarism.md'
+    
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
