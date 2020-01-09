@@ -1,5 +1,5 @@
 title: PACE Academy Student Handbook
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@master
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-sp-student-handbook
 plugins:
@@ -12,25 +12,33 @@ google_analytics:  #----> Optional, Google analytics ID
 fast_build: false
 offline: false
 preload_pages: true
-order: 
-  - 'VersionTC.md'
-  - 'MessageDir.md'
-  - 'AboutPACE.md'
-  - 'ContactUs.md'
-  - 'NavigationAroundSP.md'
-  - 'GenStudentMatters.md'
-  - 'GenCourseMatters.md'
-  - 'SemestralExam.md'
-  - 'CodeofConduct.md'
-  - 'Disciplinary.md'
-  - 'DNCPDPA.md'
-  - 'CompResources.md'
-  - 'SocialMedia.md'
-  - 'IPCopyrightPlagiarism.md'
-    
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
   logo_path: /assets/logo.png  #----> Optional, path to logo
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: https://form.gov.sg/5cee3d46138e3200109244df #----> Optional, feedback url
+
+hide_toolbar:
+  sidebar: false
+  pdf: false
+  github: true
+
+folders:
+  - name: '/'
+    title: 'PACE Academy Student Handbook'
+    subtitle: ''
+    order:
+      - 'MessageDir.md'
+      - 'AboutPACE.md'
+      - 'ContactUs.md'
+      - 'NavigationAroundSP.md'
+      - 'GenStudentMatters.md'
+      - 'GenCourseMatters.md'
+      - 'SemestralExam.md'
+      - 'CodeofConduct.md'
+      - 'Disciplinary.md'
+      - 'DNCPDPA.md'
+      - 'CompResources.md'
+      - 'SocialMedia.md'
+      - 'IPCopyrightPlagiarism.md'
