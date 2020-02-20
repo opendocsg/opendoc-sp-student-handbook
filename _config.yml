@@ -21,7 +21,7 @@ styling_options:
 
 hide_toolbar:
   sidebar: false
-  pdf: false
+  pdf: true
   github: true
 
 folders:
