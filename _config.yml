@@ -29,7 +29,7 @@ folders:
     title: 'PACE Academy Student Handbook'
     subtitle: ''
     order:
-      - 'Document Information.md'
+      - 'DocumentInformation.md'
       - 'MessageDir.md'
       - 'AboutPACE.md'
       - 'ContactUs.md'
