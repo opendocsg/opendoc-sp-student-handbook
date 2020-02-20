@@ -1,8 +1,8 @@
 ---
-title: Document Information
+title: DOCUMENT INFORMATION
 ---
 
-# Document Information
+# DOCUMENT INFORMATION
 
 **Version**
 
