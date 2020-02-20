@@ -28,9 +28,8 @@ folders:
   - name: '/'
     title: 'PACE Academy Student Handbook'
     subtitle: ''
-    doc:
-      - index.md
     order:
+      - 'index.md'
       - 'MessageDir.md'
       - 'AboutPACE.md'
       - 'ContactUs.md'
