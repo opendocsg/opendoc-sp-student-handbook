@@ -27,7 +27,7 @@ hide_toolbar:
 folders:
   - name: '/'
     title: 'PACE Academy Student Handbook'
-    subtitle: ''
+    subtitle: 'Singapore Polytechnic'
     order:
       - 'index.md'
       - 'MessageDir.md'
