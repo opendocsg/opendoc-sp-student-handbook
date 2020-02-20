@@ -21,15 +21,15 @@ styling_options:
 
 hide_toolbar:
   sidebar: false
-  pdf: true
+  pdf: false
   github: true
 
 folders:
   - name: '/'
     title: 'PACE Academy Student Handbook'
-    subtitle: 'Singapore Polytechnic'
+    subtitle: ''
     order:
-      - 'index.md'
+      - 'Document Information.md'
       - 'MessageDir.md'
       - 'AboutPACE.md'
       - 'ContactUs.md'
