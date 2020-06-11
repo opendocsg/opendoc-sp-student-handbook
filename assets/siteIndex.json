@@ -1,0 +1,283 @@
+[{
+"title": "5. CODE OF CONDUCT",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/CodeofConduct.html",
+"text": "5. CODE OF CONDUCT Please refer to the details here."
+}
+,{
+"title": "8. POLICIES GOVERNING THE USE OF COMPUTER RESOURCES",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/CompResources.html",
+"text": "8. POLICIES GOVERNING THE USE OF COMPUTER RESOURCES Please refer to the details here."
+}
+,{
+"title": "CONTACT US",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/ContactUs.html",
+"text": "CONTACT US"
+}
+,{
+"title": "One-Stop Centre",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/ContactUs.html#one-stop-centre",
+"text": "One-Stop Centre Please click on the link below for details: https://www.sp.edu.sg/sp/student-services/osc-overview/about-osc"
+}
+,{
+"title": "7. DO NOT CALL (DNC) PROVISIONS IN THE PERSONAL DATA PROTECTION ACT 2012",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/DNCPDPA.html",
+"text": "7. DO NOT CALL (DNC) PROVISIONS IN THE PERSONAL DATA PROTECTION ACT 2012 Please refer to the details here."
+}
+,{
+"title": "6. DISCIPLINARY RULES AND REGULATIONS",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/Disciplinary.html",
+"text": "6. DISCIPLINARY RULES AND REGULATIONS Please refer to the details here."
+}
+,{
+"title": "DOCUMENT INFORMATION",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/Documentinformation.html",
+"text": "DOCUMENT INFORMATION Version The information in this handbook is correct at the time of printing (June 2020). Terms of Use SP reserves the right to amend any of the specific information in this handbook."
+}
+,{
+"title": "10. INTELLECTUAL PROPERTY, COPYRIGHT AND PLAGIARISM",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/IPCopyrightPlagiarism.html",
+"text": "10. INTELLECTUAL PROPERTY, COPYRIGHT AND PLAGIARISM Please refer to the details here."
+}
+,{
+"title": "MESSAGE FROM THE DIRECTOR",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/MessageDir.html",
+"text": "MESSAGE FROM THE DIRECTOR Dear Students, It gives me great pleasure to welcome you to the Singapore Polytechnic (SP). I hope you are looking forward to the start of the course with the Professional and Adult Continuing Education (PACE) Academy at SP. Whether you are a new or returning student, it is my pleasure to welcome you to SP, and thank you for choosing SP. You have joined the first and foremost Polytechnic in Singapore. Since 1954, SP has educated and trained over 160,000 graduates, who form the core of the Singapore workforce. You have enrolled into a programme, which has been specially designed for adult learners like yourself. On successful completion of every semester, you will be awarded a certificate in recognition of your accomplishment. When you have completed all the required certificates, you will be eligible for the prestigious award of an SP Post-Diploma/Part-time Diploma. I am confident you will find your studies with us rigorous but engaging. Our well-qualified and experienced lecturers will work with you to make your learning journey fulfilling and successful. Besides hard work, a key to your successful completion will be managing your time between your work, studies and family. Once again, on behalf of our faculty and staff, we hope that your experience in SP will be a fruitful one. I wish you every success in your course, and beyond. Wong Jian Chang Acting Director PACE Academy Singapore Polytechnic"
+}
+,{
+"title": "1. NAVIGATING AROUND SINGAPORE POLYTECHNIC",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/NavigationAroundSP.html",
+"text": "1. NAVIGATING AROUND SINGAPORE POLYTECHNIC 1.1 FACILITIES &amp; SERVICES"
+}
+,{
+"title": "1.1.1 IT SPICE SERVICE DESK",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/NavigationAroundSP.html#111-it-spice-service-desk",
+"text": "1.1.1 IT SPICE SERVICE DESK SPICE Service Desk provides helpdesk service for IT-related issues, feedbacks and service requests for staff and students. Please click here for more details."
+}
+,{
+"title": "1.1.2 LIBRARY",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/NavigationAroundSP.html#112-library",
+"text": "1.1.2 LIBRARY SP Library is located opposite the Admin Building Tel: 6772 1516 Email: library@sp.edu.sg Please visit the SP library website https://library.sp.edu.sg/ for more information."
+}
+,{
+"title": "1.1.3 ATM FACILITIES",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/NavigationAroundSP.html#113-atm-facilities",
+"text": "1.1.3 ATM FACILITIES Please click here for details."
+}
+,{
+"title": "1.1.4 RETAIL &amp; DINING",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/NavigationAroundSP.html#114-retail--dining",
+"text": "1.1.4 RETAIL &amp; DINING SP is known for its wide array of food choices in our food courts and F&amp;B outlets all around the campus. Please refer here for details."
+}
+,{
+"title": "1.1.5 DIRECTIONS TO SINGAPORE POLYTECHNIC",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/NavigationAroundSP.html#115-directions-to-singapore-polytechnic",
+"text": "1.1.5 DIRECTIONS TO SINGAPORE POLYTECHNIC SP is easily accessible by public transport, MRT (Dover MRT station) and buses. Students are encouraged to take public transport as there are limited parking lots in the campus. Please refer here for details on directions to Singapore Polytechnic and parking information."
+}
+,{
+"title": "1.1.6 GATES OPERATING HOURS",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/NavigationAroundSP.html#116-gates-operating-hours",
+"text": "1.1.6 GATES OPERATING HOURS Please refer to SP Map for gates operating hours."
+}
+,{
+"title": "How to create a new Opendoc",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/readme",
+"text": "How to create a new Opendoc"
+}
+,{
+"title": "Task List",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/readme#task-list",
+"text": "Task List !!! Check that all the tasks below are completed before deployment Create new repo from this template Update config file (title, icon, color, order, etc…) Configure github webhook and secret Set up netlify/amplify deployment Set PDF Lambda env vars Change domain settings"
+}
+,{
+"title": "Github",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/readme#github",
+"text": "Github Step 1: Create a new repo, the name of the repo should follow the convention: opendoc-&lt;name_of_document&gt; Step 2: Clone the template repo onto your local machine git clone https://github.com/opendocsg/opendoc-template.git opendoc-&lt;name_of_document&gt; Step 3: Change the remote url for the repo on your local machine git remote set-url origin https://github.com/opendocsg/opendoc-&lt;name_of_document&gt;.git or (if you’re using ssh) git remote set-url origin git@github.com:opendocsg/opendoc-&lt;name_of_document&gt;.git Step 4: Add your converted markdown files into the root directory of the repo Step 5: Update the following fields in the _config.yml file: title (Required) repository (Required) order (Optional) google_analytics(Optional) styling_options primary_brand_color (Optional) logo_path (Optional) Step 6: Commit your changes git add . git commit -m &lt;commit_message&gt; Step 7: Push your changes to the remote branch git push origin master Step 8: Verify changes on Github Step 9: Setup up webhooks for https://search.opendoc.sg/push https://search-staging.opendoc.sg/push Ensure Content type is set to application/json Webhook secret is found in 1Password"
+}
+,{
+"title": "Netlify",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/readme#netlify",
+"text": "Netlify Step 1: On Netlify, click on New site From Git Step 2: Select Github &gt; Select repository Step 3: Click on Deploy Site Step 4: Go to Domain Settings &gt; click on … on the default subdomain &gt; Edit site name &gt; Input new netlify site subdomain"
+}
+,{
+"title": "9. SOCIAL MEDIA GUIDELINES",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/SocialMedia.html",
+"text": "9. SOCIAL MEDIA GUIDELINES Please refer to the details here."
+}
+,{
+"title": "ABOUT PACE",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/AboutPACE.html",
+"text": "ABOUT PACE Singapore Polytechnic (SP) was the first polytechnic established in 1954. In 1979, it started to offer Continuing Education and Training (CET) courses to meet the upgrading needs of its growing number of graduates. This expanded later to include CET for all professionals, managers and executives or PMEs. In 2008, the Professional &amp; Adult Continuing Education (PACE) Academy was established to enable SP to support the efforts of the National Productivity and Continuing Education Council (NPCEC) which was mandated to prioritise and champion national productivity initiatives at the sectorial and enterprise levels, develop a comprehensive, first-class national CET system and foster a culture of productivity and continuous learning and upgrading in Singapore. PACE Academy continues to offer quality multi-disciplinary CET programmes to about 30,000 PMEs over 1,000 courses runs per year. These programmes cater to adult and PMEs who not only may have relevant experience but also varied training needs."
+}
+,{
+"title": "Our Vision",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/AboutPACE.html#our-vision",
+"text": "Our Vision To be Singapore’s leading CET Academy transforming adult learners through innovative educational experiences."
+}
+,{
+"title": "Our Mission",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/AboutPACE.html#our-mission",
+"text": "Our Mission To offer a variety of relevant courses for adult learners to enhance their employability."
+}
+,{
+"title": "3. GENERAL COURSE MATTERS",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html",
+"text": "3. GENERAL COURSE MATTERS"
+}
+,{
+"title": "3.1 PROGRESSION",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#31-progression",
+"text": "3.1 PROGRESSION The course duration and maximum candidature period for the different qualifications are listed as follows: Qualification No. of Modular Cert (MC)/Post-Diploma Cert (PDC) Course Duration Maximum Candidature Period Part-time Diploma 5 MCs 2.5 years 5 years Advanced Diploma 3 to 4 PDCs 1 - 2 years (1 or 2 PDC per semester) 4 years Specialist Diploma 2 PDCs 1 year 2 years Diploma (Conversion) 2 PDCs 1 year 2 years Students will be progressed to the next available MC/PDC at the end of every semester. However, students who failed any module(s) are required to retake the failed module(s) in the next semester (subject to available vacancy) before they proceed to the next MC/PDC. There will be no subsidy for the failed module. Students are required to pay full fee for the repeat modules. Students are required to pass all the prescribed modules in the MC/PDC in order to be awarded with the certificate. Students are required to pass all the prescribed MCs/PDCs in order to be awarded with the qualification."
+}
+,{
+"title": "3.2 MODULE EXEMPTION",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#32-module-exemption",
+"text": "3.2 MODULE EXEMPTION Students may be considered for module exemption based on their prior tertiary qualification (e.g. Diploma, Degree). Students who wish to apply for module exemption must submit the Module Exemption Application form, before commencement of the new semester. Late application will not be accepted. Application is on semester basis and not by year, i.e. students should only apply for exemption for the modules taken in the current semester. Students must continue to attend lessons for all modules pending the outcome of the application. Students will be notified the outcome within 2 calendar weeks of application, for properly completed applications (with necessary attachments). Incomplete applications may experience a delay in the processing time. Students are only allowed up to a maximum of 40% of all modules in the course. In the event that the student is exempted for all modules in a Module Certificate (MC) / Post Diploma Certificate (PDC). No MC/PDC is issued."
+}
+,{
+"title": "3.3 PAYMENT OF FEES",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#33-payment-of-fees",
+"text": "3.3 PAYMENT OF FEES Students who wish to continue their course of studies are liable to pay their semester course fees before the semester commencement. This applies to company sponsored students too. Students with outstanding fees due to SP will not be enrolled into the course and shall not be allowed to attend classes. No student will be allowed to admit into the course after the 2nd Academic week. Students with financial difficulty may refer to section 3.4 Financial Assistance Scheme. The modes of payment available are SkillsFuture credit, funds in Post-Secondary Education Account (PSEA), e-banking, Visa/MasterCard, NETS or cheque. All payments are to be made in Singapore dollars. 1. SkillsFuture Credit (Applicable to Singapore Citizen only) This is not applicable to company sponsored students. Please refer here if you wish to pay your course fees using SkillsFuture credit. 2. PSEA (Post-Secondary Education Account) (Applicable to Singapore citizen only) This is not applicable for company sponsored participants. You may call the Edusave Phone Enquiry System at 6260-0777 to check your PSEA balance. Please click here if you wish to pay your course fees using PSEA. 3. e-Payment using Visa/Master card or internet banking Please follow instructions on the payment email to proceed. We accept Visa &amp; MasterCard only. 4. NETS payment The daily limit is $2,000 or $3,000, depending on the bank and your personal limit. You can pay at: You can pay at One Stop Centre. 5. Cheque Payment Please make cheques payable to “Singapore Polytechnic”. Please cross the cheque and write your Registration Reference ID, Applicant Name and NRIC/FIN number on the back of the cheque. Mail the cheque to: Singapore Polytechnic PACE Academy 500 Dover Road Blk T1A, Level 1 Singapore 139651 Please note that an administrative charge of $15 will be imposed for any returned cheques from the bank or financial institution."
+}
+,{
+"title": "3.4 FINANCIAL ASSISTANCE SCHEME",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#34-financial-assistance-scheme",
+"text": "3.4 FINANCIAL ASSISTANCE SCHEME MOE Bursary Eligibility Criteria: Singaporeans; and Part-time Diploma students (not applicable to DMOM students and Post-diploma students); and Gross monthly Household Income (GHI) of immediate and non-immediate family member of $9,000 and below, or Per Capita Income (PCI*) of $2,250 and below: For Part-Time Diploma students Gross GHI/PCI ** Quantum GHI: $4,000 and below, or PCI: $1,000 and below $400 / Semester GHI: $6,900 and below, or PCI: $1,725 and below $300 / Semester GHI: $6,901 - $9,000, or PCI: $1,726 - $2,250 $150 / Semester **GHI (Gross Monthly household income) includes income of immediate and non-immediate family members: -Immediate family member: parents who may or may not be living together with the student -Non-immediate family member: grandparents, siblings, spouses of siblings, siblings of parents, and any other relatives who are living together with the student ** PCI (Gross Monthly Per Capita Income) = total GHI divided by the number of immediate family members and non-immediate family members living in the same household. Gross Income (i.e. including employee’s CPF contributions) includes income contributions from self -employment, business or salaried employment (which includes basic salary, allowances, overtime pay, etc.) as well as other sources of income (eg. rent, alimony or maintenance allowance). If bonuses are declared, it should be computed as 1/12 of the annual wage supplements and bonuses received in the last 12 months. Payments-in-kind, reimbursement for transport and other expenses and National Service (NS) allowances earned by NS men are excluded. To apply for the bursary, please submit your application online with all supporting documents (e.g. NRIC, latest payslips) via the Higher Education Bursary Form. Please note that application for the MOE bursary is on a semester basis."
+}
+,{
+"title": "3.5 STUDENT ATTENDANCE",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#35-student-attendance",
+"text": "3.5 STUDENT ATTENDANCE Attendance is a key factor in student progression and achievement. Regular attendance and academic achievement are closely linked. Students who actively participate in their learning by attending classes regularly are more likely to enjoy a rewarding experience in which their knowledge, skills and abilities are developed. Students are expected and required to attend all scheduled classes. Students should arrive on time for classes and remain for the duration of the class. Late arrival at, and early departure from, classes is disruptive, discourteous, unprofessional and unfair to other students and lecturers. Please take note of the following: a. A student will be marked absent if he/she is late by more than 15 minutes (e.g. for a 6:30 pm lecture, a student who enters the class after 6:45 pm will be marked absent). b. A student is required to attain at least 50% of the aggregated attendance for lectures, tutorials and practical sessions of a module. A student whose attendance for a module falls below 50% will be allowed to take the semestral examination and be given either a Pass (P) or Fail (F) grade in that module. Please note that if you are sponsored by your company, your company will not be able to claim for absentee payroll if your attendance is below 75%."
+}
+,{
+"title": "3.6 LEAVE OF ABSENCE",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#36-leave-of-absence",
+"text": "3.6 LEAVE OF ABSENCE Student must attain at least 50% overall attendance for classes. Student whose attendance for a module falls below 50% will be allowed to take the semestral examination and be given either a Pass (P) or Fail (F) grade in that module. Student whose attendance for a module falls below 50% will not be allowed apply leave of absence from examination."
+}
+,{
+"title": "3.6.1 LEAVE OF ABSENCE FROM ASSESSMENTS/TESTS",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#361-leave-of-absence-from-assessmentstests",
+"text": "3.6.1 LEAVE OF ABSENCE FROM ASSESSMENTS/TESTS With effect from Academic Year 2018/19 Semester 1, Students who are unable to attend classes (include lectures, tutorials and practical sessions, etc.) are NOT required to apply LOA. Students are responsible to ensure they meet the minimum attendance for each module (50% for non-company sponsored students and 75% for company sponsored students). However, students, who are unable to take the Class Assessment (CA)/ Mid Semester Test (MST)/End Semester Test (EST)/Examination, must submit the Leave of Absence (LOA) application with supporting documents via PACE Student Portal within 3 working days. Only medical certificates issued by medical practitioners registered with the Singapore Medical Council will be accepted. All other medical certificates, for example, those issued by Chinese physicians, are not accepted. Application for Leave of Absence for personal holiday trips will not be considered."
+}
+,{
+"title": "3.6.2 LEAVE OF ABSENCE FROM SEMESTRAL EXAMINATION",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#362-leave-of-absence-from-semestral-examination",
+"text": "3.6.2 LEAVE OF ABSENCE FROM SEMESTRAL EXAMINATION A student who is absent without a valid reason from the semestral examination for a module shall be considered to have failed the module. If a student has a valid reason for missing the semestral examination, he can write in to ptenquiry@sp.edu.sg to apply for leave of absence (LOA) from semestral examination. Where the reason for absence from the semestral examination is known beforehand, the student must submit his application for leave of absence from the semestral exam before the day of the examination. For all other reasons for absence, which could not be known beforehand, such application for leave of absence must be submitted within 2 working days from the day of absence. Note: For leave of absence due to illness, only medical certificates issued by medical practitioners registered with the Singapore Medical Council will be accepted. (Exception: Malaysian students residing in JB may submit medical certificates issued in JB.) All other medical certificates, for example, those issued by Chinese physicians, are not accepted. Application for Leave of Absence for personal holiday trips will not be considered. Students are not to assume that their application for leave of absence has been approved, they should check their iChat account for the application status closer to the period applied for. They must check with their respective School should they have any doubts. Where a student is granted leave of absence from the semestral exam, the module shall be removed from the list of modules registered by him for that semester and he shall not be considered to have made one attempt in the examination for that module. The student must attend all classes and sit for all assessments for the module in a subsequent semester in which that module is offered, subject to the maximum number of modules allowed for that stage of study and the constraints of the class time-table. Notwithstanding Paragraph (6) above, a student who is granted leave of absence from the semester examination may apply to the Director of his School to be exempted from attending classes for the subsequent sitting and/or to be allowed to carry forward his past in-course assessed component marks. The application will be considered on a case-by-case basis. A student shall only be granted one deferment for each of the modules that he is taking."
+}
+,{
+"title": "3.7 WITHDRAWAL FROM COURSE",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#37-withdrawal-from-course",
+"text": "3.7 WITHDRAWAL FROM COURSE Students intending to withdraw from their course of study must complete a Withdrawal request in PACE Student Portal. Students are not allowed to withdraw during the official examination period. For any withdrawals received upon the start of and during the conduct of the semestral exam, the student will be considered to have sat for the exam. The withdrawal date will be post-dated to the day semestral results are released. Student shall settle all outstanding bills with the Polytechnic prior to withdrawal. The portion of course fee to be refunded is based on when withdrawal notice reaches PACE Office: Withdrawal Period Refund Eligibility On or after date of semester commencement No refund Less than 2 weeks before semester commencement 70% refund of course fee Please note that other fees paid are non-refundable."
+}
+,{
+"title": "3.8 NON-SINGAPOREAN STUDENTS",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenCourseMatters.html#38-non-singaporean-students",
+"text": "3.8 NON-SINGAPOREAN STUDENTS Non-Singaporeans students must possess a valid Employment Pass / Work Permit / Dependant Pass throughout the course duration. They must write to ptenquiry@sp.edu.sg should they have failed to renew their work pass and they will be administratively withdrawn from the course."
+}
+,{
+"title": "2. GENERAL STUDENT MATTERS",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenStudentMatters.html",
+"text": "2. GENERAL STUDENT MATTERS"
+}
+,{
+"title": "2.1 ACADEMIC CALENDAR",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenStudentMatters.html#21-academic-calendar",
+"text": "2.1 ACADEMIC CALENDAR For the latest Academic Calendar, please click here."
+}
+,{
+"title": "2.2 STUDENT CARD",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenStudentMatters.html#22-student-card",
+"text": "2.2 STUDENT CARD Students are issued with student card which serves as your identification card at SP. You must carry the student card with you all the times when you are in SP campus. You should not allow your student card to be used by others. The student card is required for the following purposes: Borrow books and multimedia from the library Use of swimming pool and gym Identification for exam Should you lose your student card, please contact us immediately at 6772-1288 or email us at ptenquiry@sp.edu.sg. Replacement cost for student card is $10.70 (inclusive of GST)."
+}
+,{
+"title": "2.3 IT ACCOUNT MANAGEMENT",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenStudentMatters.html#23-it-account-management",
+"text": "2.3 IT ACCOUNT MANAGEMENT All students are issued with the following two accounts: 1) SPICE account, and 2) iChat email account. These accounts remain valid during your course of study in SP. You are to ensure the confidentiality and security of your password. You will be prompted to change your password on a regular basis. Please contact SPICE Service Desk if you encounter any issue with your accounts."
+}
+,{
+"title": "2.3.1 SPICE ACCOUNT",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenStudentMatters.html#231-spice-account",
+"text": "2.3.1 SPICE ACCOUNT SPICE account is a SP IT account for students to access SPICE services provided by SP. These services include wireless network, PACE Student Portal, Polymall (e-learning system), library, etc. You can reset your SPICE password or unlock your SPICE account through Identity Management System (IDMS). Please contact SPICE Service Desk if you encounter any issue with your account."
+}
+,{
+"title": "2.3.2 iCHAT EMAIL ACCOUNT",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/GenStudentMatters.html#232-ichat-email-account",
+"text": "2.3.2 iCHAT EMAIL ACCOUNT iChat (http://www.outlook.com/ichat.sp.edu.sg) is an email service provided by Microsoft for SP students. All official emails from SP will be sent to your iChat email account. You may use the “e-mail Forwarding” feature in iChat email to forward incoming emails to another email account of your choice (e.g. your office email account or your personal email) to avoid missing of important announcements from us. Please refer to how to forward your ichat emails. You may also like to know how to reset your iChat password. Please contact SPICE Service Desk if you encounter any issue with your account."
+}
+,{
+"title": "4. SEMESTRAL EXAMINATION",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/SemestralExam.html",
+"text": "4. SEMESTRAL EXAMINATION"
+}
+,{
+"title": "4.1 SEMESTRAL EXAM TIME-TABLE AND VENUE",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/SemestralExam.html#41-semestral-exam-time-table-and-venue",
+"text": "4.1 SEMESTRAL EXAM TIME-TABLE AND VENUE Students, who are taking semestral examinations, can view the exam timetable and venue via the Student Portal (PACE), 3 weeks before the exam weeks. Details on exam weeks can be found in Academic Calendar (https://www.sp.edu.sg/calendar)."
+}
+,{
+"title": "4.2 CONDUCT IN EXAMINATIONS &amp; BREACH OF EXAM RULES",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/SemestralExam.html#42-conduct-in-examinations--breach-of-exam-rules",
+"text": "4.2 CONDUCT IN EXAMINATIONS &amp; BREACH OF EXAM RULES Please refer to the details in here."
+}
+,{
+"title": "4.3 GRADING SYSTEM",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/SemestralExam.html#43-grading-system",
+"text": "4.3 GRADING SYSTEM Please refer to the details in here."
+}
+,{
+"title": "4.4 EXAMINATION RESULTS AND APPEAL",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/SemestralExam.html#44-examination-results-and-appeal",
+"text": "4.4 EXAMINATION RESULTS AND APPEAL 4.4.1 EXAMINATION RESULTS Students can view exam results on the day of release by checking your iChat email account or Student Portal (PACE). If you encounter problems accessing iChat email, please contact the SPICE Service Desk. 4.4.2 APPEAL PROCEDURES Student may appeal against a failed module in the semester examination. All appeals must be lodged within 4 working days from the release date of the examinations results. Appeals made after the deadline will not be entertained. Purpose of appeal: For the re-marking of a failed exam paper Appeal forms are obtained from here. A non-refundable fee of S$26.75 (inclusive of GST) will be charged. Students are to settle all outstanding bills with SP prior to submission of this form. Only one appeal can be lodged and no re-appeals are permitted. No appeals will be accepted for re-grading of an exam paper in which a student has passed. Appeal application is subject to the approval by SP. SP’s decision is final and no reason will be given. PACE will notify the student about the outcome of the appeal via email within 10 working days after the submission date of the appeal form. Student should not assume that their appeal is successful unless informed by PACE."
+}
+,{
+"title": "4.5 SPECIAL NEEDS FOR EXAMS, ILLNESS OR UNFORSEEN DISRUPTIONS DURING EXAMS",
+"documentTitle": "PACE Academy Student Handbook",
+"url": "/opendoc-sp-student-handbook/SemestralExam.html#45-special-needs-for-exams-illness-or-unforseen-disruptions-during-exams",
+"text": "4.5 SPECIAL NEEDS FOR EXAMS, ILLNESS OR UNFORSEEN DISRUPTIONS DURING EXAMS Please refer to the details here."
+}
+]
