@@ -1,4 +1,4 @@
----
+﻿---
 title: Semestral Examinations
 --- 
 
@@ -38,3 +38,4 @@ Purpose of appeal: For the re-marking of a failed exam paper
 ## 4.5 SPECIAL NEEDS FOR EXAMS, ILLNESS OR UNFORSEEN DISRUPTIONS DURING EXAMS
 
 Please refer to the details [here](https://www.sp.edu.sg/sp/student-services/osc-overview/student-handbook/special-needs-for-exams-illness-or-unforseen-disruptions-during-exams). 
+

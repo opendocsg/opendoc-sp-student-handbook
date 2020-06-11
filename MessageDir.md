@@ -32,3 +32,4 @@ I wish you every success in your course, and beyond.
 Acting Director  
 PACE Academy  
 Singapore Polytechnic
+

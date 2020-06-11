@@ -1,4 +1,4 @@
---- 
+﻿--- 
 title: General Course Matters
 ---
 
@@ -83,6 +83,7 @@ Eligibility Criteria:**
 
 | Gross GHI/PCI **  | Quantum  |
 | ------------ | ------------ |
+| GHI: $4,000 and below, or PCI: $1,000 and below  | $400 / Semester   | 
 | GHI: $6,900 and below, or PCI: $1,725 and below  | $300 / Semester   |
 | GHI: $6,901 - $9,000, or PCI: $1,726 - $2,250  | $150 / Semester  |
 
@@ -94,8 +95,7 @@ Eligibility Criteria:**
 Gross Income (i.e. including employee’s CPF contributions) includes income contributions from self -employment, business or salaried employment (which includes basic salary, allowances, overtime pay, etc.) as well as other sources of income (eg. rent, alimony or maintenance allowance). If bonuses are declared, it should be computed as 1/12 of the annual wage supplements and bonuses received in the last 12 months.  
 Payments-in-kind, reimbursement for transport and other expenses and National Service (NS) allowances earned by NS men are excluded.
 
-To apply, please download the [MOE Bursary Form](https://www.sp.edu.sg/docs/default-source/pace-files/126-pace-frm-126(e)-1-moe-bursary-ver-6.pdf). Complete and submit it together with the supporting documents listed in the form to [One Stop Centre](https://www.sp.edu.sg/sp/student-services/osc-overview/about-osc). Please note that application for the MOE bursary is on a semester basis.
-
+To apply for the bursary, please submit your application online with all supporting documents (e.g. NRIC, latest payslips) via the [Higher Education Bursary Form](https://www.sp.edu.sg/docs/default-source/pace-files/126-pace-frm-126(e)-1-moe-bursary-ver-6.pdf). Please note that application for the MOE bursary is on a semester basis. 
 ## 3.5 STUDENT ATTENDANCE
 
 1. Attendance is a key factor in student progression and achievement. Regular attendance and academic achievement are closely linked. Students who actively participate in their learning by attending classes regularly are more likely to enjoy a rewarding experience in which their knowledge, skills and abilities are developed.
@@ -162,4 +162,5 @@ Please note that other fees paid are non-refundable.
 ## 3.8 NON-SINGAPOREAN STUDENTS
 
 Non-Singaporeans students must possess a valid Employment Pass / Work Permit / Dependant Pass throughout the course duration. They must write to <ptenquiry@sp.edu.sg> should they have failed to renew their work pass and they will be administratively withdrawn from the course.
+
 

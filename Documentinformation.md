@@ -6,7 +6,7 @@ title: DOCUMENT INFORMATION
 
 **Version**
 
-The information in this handbook is correct at the time of printing (Oct 2019). 
+The information in this handbook is correct at the time of printing (June 2020). 
 
 **Terms of Use**
 
